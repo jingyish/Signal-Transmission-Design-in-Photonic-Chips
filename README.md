@@ -14,7 +14,7 @@ Able to amplify several optical signals.
 
 Conclusion:
 In this project, our ultimate goal is to use light to build some logical gate, so that people can finally use photon to replace electron to build photonics chips.
-However, because of the time limitation, we can not finish light logical gate. So we build WDM system and EDFA system, which is part of signal transmission part of the chips.
+However, due to the limited time, we could not complete the logic gate of light.
 Although the design is not perfect, it satisfy our primary goal. Multiple lights have been successfully combined into one fiber, and are amplified by an amplifier. 
 We think this signal transmission design has been built partially successfully, because with this part light can be transmitted in long distance without high distortion.
 
