@@ -8,7 +8,7 @@ Wavelength Division Multiplexing (WDM) is a fiber-optic transmission technique t
 Based on the properties of the WDM system and EDFA, we design the EDFA in WDM systems to optimize the gain of the transmission signal.
 We combined 8 transmitter subsystems to be 8 channel WDM transmitter. A WDM system uses a multiplexer at the transmitter to join the several signals together and a demultiplexer at the receiver to split them apart.
 
-EDFA is optical amplifier can amplify optical signals directly without converting into electrical signals.
+EDFA is an optical amplifier can amplify optical signals directly without converting into electrical signals.
 large gain and high output power.
 Able to amplify several optical signals.
 
