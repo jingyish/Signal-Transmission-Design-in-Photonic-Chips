@@ -1,6 +1,6 @@
 # Signal-Transmission-Design-in-Photonic-Chips
 
-In project "photonic chips with machine learning", our team try to do some signal transmission design in photonic chips and analysed them with simulation. 
+In the project "photonic chips with machine learning", our team try to do some signal transmission design in photonic chips and analysed them with simulation. 
 Optisystem is the simulation tool we choosed. For this software, we can see a clearly data change by Optisystem. 
 
 Wavelength Division Multiplexing (WDM) is a fiber-optic transmission technique that combine light with different wavelengths (or colors) into one fiber, and apply with the multiplexer to transmit data. Different colors of light can travel on one fiber at the same time, then signals can be transmitted in an optical waveguide at different wavelengths or frequencies on the optical spectrum. As a result, light can transmit more information than electronics. WDM system can along with mux and demux, combine or split light with different wavelengths, then transmit data. 
