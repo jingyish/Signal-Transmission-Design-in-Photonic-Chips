@@ -11,7 +11,7 @@ In our project, "Signal Transmission Design in Photonic chips", we apply with th
 Wavelength Division Multiplexing (WDM) is a fiber-optic transmission technique that combine light with different wavelengths (or colors) into one fiber, and apply with the multiplexer to transmit data. Different colors of light can travel on one fiber at the same time, then signals can be transmitted in an optical waveguide at different wavelengths or frequencies on the optical spectrum. In WDM systems by multiplexing, a stream of wavelength channels particularly in C and L-band regimes can simultaneously amplify to a desired power level where the amplification of any particular channel is dependent on the signal wavelength, the number of signals present in the system, the input signal powers and its absorption and emission cross-sections [1]. In this project, we first combined 8 transmitter subsystems to be 8 channel WDM transmitter (shown in Sprint3 and Sprint4). Then connect it with mux and demux to build up the WDM system, which can combine or split light with different wavelengths, then transmit data. 
 
 ### EDFA (Erbium-Doped Fiber Amplifier)
-Erbium-Doped Fiber Amplifier (EDFA) has large gain and high output power. It is an optical amplifier that along with the doped optical fiber to amplify several  optical signals at same time. Which means EDFA can amplify optical signals directly without converting into electrical signals. In this poject, we design this signals transmission schematic combined with EDFA and WDM system. The basic structure of an EDFA consists of a length of Erbium-doped fiber (EDF), a pump laser, and a WDM combiner. The WDM combiner is for combining the signal and pump wavelength so that they can propagate simultaneously through the EDF [2]. The figure shown below is the principle schematic of EDFA system. 
+Erbium-Doped Fiber Amplifier (EDFA) has large gain and high output power. It is an optical amplifier that along with the doped optical fiber to amplify several  optical signals at same time. Which means EDFA can amplify optical signals directly without converting into electrical signals. In this poject, we design this signals transmission schematic combined with EDFA and WDM system. The basic structure of an EDFA consists of a length of Erbium-doped fiber (EDF), a pump laser, and a WDM combiner. The WDM combiner is for combining the signal and pump wavelength so that they can propagate simultaneously through the EDF [2]. The figure shown below is the principle schematic of EDFA system[3].
 (![What_is_EDFA_forward_pumping](https://user-images.githubusercontent.com/90426866/146406262-11b68b56-143a-473b-a3ea-2690affdab40.png)
 
 ## Schematics
@@ -38,5 +38,6 @@ We think this signal transmission design has been built partially successfully, 
 ## Reference
 1. [1] S. Yoshida, S. Kuwano, and K. Iwashita, Electron, Lett, 1995. 
 2. [2] Optical Amplifier—EDFA (Erbium-doped Fiber Amplifier) for WDM System, https://community.fs.com/blog/erbium-doped-fiber-amplifier-edfa.html
+3. [3] Erbium-Doped Fiber Amplifier (EDFA) figure source, https://www.fiberlabs.com/glossary/erbium-doped-fiber-amplifier/
 
  
