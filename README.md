@@ -20,11 +20,3 @@ We think this signal transmission design has been built partially successfully, 
 
 
 Reference:
-
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.631.3067&rep=rep1&type=pdf
-
-https://community.fs.com/blog/erbium-doped-fiber-amplifier-edfa.html
-
-https://onlinelibrary.wiley.com/doi/epdf/10.1002/bltj.2153
-
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=649655
