@@ -36,7 +36,7 @@ We think this signal transmission design has been built partially successfully, 
 #### [Sprint 4](https://github.com/jingyish/Signal-Transmission-Design-in-Photonic-Chips/blob/main/EC601%20Sprint4.pdf)
 
 ## Reference
-[1] S. Yoshida, S. Kuwano, and K. Iwashita, Electron, Lett, 1995. 
-[2] Optical Amplifier—EDFA (Erbium-doped Fiber Amplifier) for WDM System, https://community.fs.com/blog/erbium-doped-fiber-amplifier-edfa.html
+1. [1] S. Yoshida, S. Kuwano, and K. Iwashita, Electron, Lett, 1995. 
+2. [2] Optical Amplifier—EDFA (Erbium-doped Fiber Amplifier) for WDM System, https://community.fs.com/blog/erbium-doped-fiber-amplifier-edfa.html
 
  
