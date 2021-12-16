@@ -1,9 +1,9 @@
 # Signal Transmission Design in Photonic Chips
 
 ## Group member
-#### Yuhan Chen, alsrec@bu.edu
-#### Jingyi Shen, jingyish@bu.edu
-#### Xinyi Zhang, zhnj98@bu.edu
+##### Yuhan Chen, alsrec@bu.edu
+##### Jingyi Shen, jingyish@bu.edu
+##### Xinyi Zhang, zhnj98@bu.edu
 
 ## Introduction
 In our project, "Signal Transmission Design in Photonic chips", we apply with the software, Optisystem, to design our schematics, and simulate the results. Based on the properties of the WDM system and EDFA, we design this EDFA schematics for WDM systems to optimize the gain of the transmission signal. In this design, the multiplexer combine eight different signals with the pump laser, and the signals launched to the doped fiber, and the signals is amplified through the doping ions. The figure shown below is the principle schematic of EDFA system.
