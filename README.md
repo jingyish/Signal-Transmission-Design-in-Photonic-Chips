@@ -3,8 +3,7 @@
 ## Group member
 Yuhan Chen, Jingyi Shen, Xinyi Zhang
 
-## Poster 
-(https://docs.google.com/presentation/d/11vBK19e3JnWAzDKyC5hz2bTcq70_URKFLjz7jSAr5Ls/edit#slide=id.g106a4863df6_2_11)
+## [Poster](https://docs.google.com/presentation/d/11vBK19e3JnWAzDKyC5hz2bTcq70_URKFLjz7jSAr5Ls/edit#slide=id.g106a4863df6_2_11)
 
 ## Introduction
 In our project "Signal Transmission Design in Photonic chips", We self-learning the basic concepts of the photonic chips by using the graphing software, Optisystem. 
