@@ -1,6 +1,10 @@
 # Signal Transmission Design in Photonic Chips
+
 ## Group member
 Yuhan Chen, Jingyi Shen, Xinyi Zhang
+
+## Poster 
+(![]https://github.com/jingyish/Signal-Transmission-Design-in-Photonic-Chips/blob/main/EC601%20Final%20Poster.jpg)
 
 ## Introduction
 In our project "Signal Transmission Design in Photonic chips", We self-learning the basic concepts of the photonic chips by using the graphing software, Optisystem. 
