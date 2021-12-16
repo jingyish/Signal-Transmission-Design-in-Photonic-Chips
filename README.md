@@ -3,8 +3,6 @@
 ## Group member
 Yuhan Chen, Jingyi Shen, Xinyi Zhang
 
-## [Poster](https://docs.google.com/presentation/d/11vBK19e3JnWAzDKyC5hz2bTcq70_URKFLjz7jSAr5Ls/edit#slide=id.g106a4863df6_2_11)
-
 ## Introduction
 In our project "Signal Transmission Design in Photonic chips", We self-learning the basic concepts of the photonic chips by using the graphing software, Optisystem. 
 try to do some signal transmission design in photonic chips and analysed them with simulation. 
@@ -24,19 +22,20 @@ Erbium-Doped Fiber Amplifier (EDFA) has large gain and high output power. It is 
 ## Schematics
 
 ## Simulations
+#### Output power and noise spectrum 
+The following figures show the results viewed from a visualizer in the OptiSystem software. It displayed a boost of the gain for pump powers when the power (dBm) versus the wavelength (m).
+![spectrum2](https://user-images.githubusercontent.com/90426866/146411074-3e93b646-b064-4d72-8bdb-9fe0924993bf.JPG)
+![spectrum1](https://user-images.githubusercontent.com/90426866/146411043-1600003e-3020-4748-a4f3-f23cf6ce91ac.JPG)
 
 
 ## Conclusion:
-In this project, our ultimate goal is to use light to build some logical gate, so that people can finally use photon to replace electron to build photonics chips.
-However, due to the limited time, we could not complete the logic gate of light.
-Although the design is not perfect, it satisfy our primary goal. Multiple lights have been successfully combined into one fiber, and are amplified by an amplifier. 
-We think this signal transmission design has been built partially successfully, because with this part light can be transmitted in long distance without high distortion.
+We think this signal transmission design has been built partially successfully, because with this part light can be transmitted in long distance without high distortion. Although the design is not perfect, it satisfy our primary goal. Multiple lights have been successfully combined into one fiber, and are amplified by an amplifier. 
 
-## Poster Link
+## [Poster](https://docs.google.com/presentation/d/11vBK19e3JnWAzDKyC5hz2bTcq70_URKFLjz7jSAr5Ls/edit#slide=id.g106a4863df6_2_11)
 
 ## Sprint Link
-#### [Sprint 1]()
-#### [Sprint 2]()
+#### [Sprint 1](https://docs.google.com/presentation/d/13f7-M4Ozyy60VHOJVp_0sXjAn0Q7F3sJRxwd86_Unww/edit#slide=id.p)
+#### [Sprint 2](https://docs.google.com/presentation/d/1QKz9lBUuWOXDW8q7zqsBB_cB4_tMfTXbOShkj6dXukg/edit#slide=id.p1)
 #### [Sprint 3](https://github.com/jingyish/Signal-Transmission-Design-in-Photonic-Chips/blob/main/ECE601%20Sprint%203.pdf)
 #### [Sprint 4](https://github.com/jingyish/Signal-Transmission-Design-in-Photonic-Chips/blob/main/EC601%20Sprint4.pdf)
 
