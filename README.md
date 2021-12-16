@@ -27,7 +27,8 @@ The following figures show the results viewed from a visualizer in the OptiSyste
 ## Conclusion:
 We think this signal transmission design has been built partially successfully, because with this part light can be transmitted in long distance without high distortion. Although the design is not perfect, it satisfy our primary goal. Multiple lights have been successfully combined into one fiber, and are amplified by an amplifier. 
 
-## [Poster](https://docs.google.com/presentation/d/11vBK19e3JnWAzDKyC5hz2bTcq70_URKFLjz7jSAr5Ls/edit#slide=id.g106a4863df6_2_11)
+## Poster Link
+#### [Poster](https://docs.google.com/presentation/d/11vBK19e3JnWAzDKyC5hz2bTcq70_URKFLjz7jSAr5Ls/edit#slide=id.g106a4863df6_2_11)
 
 ## Sprint Link
 #### [Sprint 1](https://docs.google.com/presentation/d/13f7-M4Ozyy60VHOJVp_0sXjAn0Q7F3sJRxwd86_Unww/edit#slide=id.p)
