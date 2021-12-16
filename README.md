@@ -1,5 +1,7 @@
-# Signal-Transmission-Design-in-Photonic-Chips
+# Signal Transmission Design in Photonic Chips
+# Group member
 
+# Introduction
 In the project "photonic chips with machine learning", our team try to do some signal transmission design in photonic chips and analysed them with simulation. 
 Optisystem is the simulation tool we choosed. For this software, we can see a clearly data change by Optisystem. 
 
@@ -18,5 +20,11 @@ However, due to the limited time, we could not complete the logic gate of light.
 Although the design is not perfect, it satisfy our primary goal. Multiple lights have been successfully combined into one fiber, and are amplified by an amplifier. 
 We think this signal transmission design has been built partially successfully, because with this part light can be transmitted in long distance without high distortion.
 
+# Poster Link
+# Sprint Link
+#### [Sprint 1]
+#### [Sprint 2]
+#### [Sprint 3]
 
-Reference:
+# Reference
+
