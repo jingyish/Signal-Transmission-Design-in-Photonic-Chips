@@ -4,7 +4,7 @@
 Yuhan Chen, Jingyi Shen, Xinyi Zhang
 
 ## Poster 
-(https://github.com/jingyish/Signal-Transmission-Design-in-Photonic-Chips/blob/main/EC601%20Final%20Poster.jpg)
+(https://docs.google.com/presentation/d/11vBK19e3JnWAzDKyC5hz2bTcq70_URKFLjz7jSAr5Ls/edit#slide=id.g106a4863df6_2_11)
 
 ## Introduction
 In our project "Signal Transmission Design in Photonic chips", We self-learning the basic concepts of the photonic chips by using the graphing software, Optisystem. 
@@ -37,9 +37,10 @@ We think this signal transmission design has been built partially successfully, 
 ## Poster Link
 
 ## Sprint Link
-#### [Sprint 1]
-#### [Sprint 2]
-#### [Sprint 3]
+#### [Sprint 1]()
+#### [Sprint 2]()
+#### [Sprint 3](https://github.com/jingyish/Signal-Transmission-Design-in-Photonic-Chips/blob/main/ECE601%20Sprint%203.pdf)
+#### [Sprint 4](https://github.com/jingyish/Signal-Transmission-Design-in-Photonic-Chips/blob/main/EC601%20Sprint4.pdf)
 
 ## Reference
 
